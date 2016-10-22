@@ -1,0 +1,7 @@
+This is a sample file
+
+This file will be used as an argument to the commandLineInputExample.out
+executable
+
+That program will take in any file and display all of its contents to the
+terminal (console)
